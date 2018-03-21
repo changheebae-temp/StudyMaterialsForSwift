@@ -12,6 +12,9 @@ These are awesome study materials for learning Swift and iOS development.
 ### 🇰🇷 Korean Books
 - [꼼꼼한 재은 씨의 스위프트(Swift): 문법편](https://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAj) by 이재은
 ## Websites
+### Blogs
+- [Natasha The Robot](https://www.natashatherobot.com)
+- [Swift by Sundell](https://www.swiftbysundell.com)
 ## Communities
 ## Others
 - [Pro Git](https://git-scm.com/book/en/v2)
