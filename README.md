@@ -16,5 +16,7 @@ These are awesome study materials for learning Swift and iOS development.
 - [Natasha The Robot](https://www.natashatherobot.com)
 - [Swift by Sundell](https://www.swiftbysundell.com)
 ## Communities
+### Conferences
+- [try! Swift](https://www.tryswift.co)
 ## Others
 - [Pro Git](https://git-scm.com/book/en/v2)
