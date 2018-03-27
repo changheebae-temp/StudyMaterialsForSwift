@@ -20,4 +20,6 @@ These are awesome study materials for learning Swift and iOS development.
 ### Conferences
 - [try! Swift](https://www.tryswift.co)
 ## Others
+- [Project Euler](https://projecteuler.net)
+- [Leet Code](https://leetcode.com)
 - [Pro Git](https://git-scm.com/book/en/v2)
