@@ -16,6 +16,8 @@ These are awesome study materials for learning Swift and iOS development.
 ### Homepages
 - [Swift.org](https://swift.org)
 - [CocoaPods](https://cocoapods.org)
+- [raywenderlich.com](https://www.raywenderlich.com)
+- [Stack Overflow](https://stackoverflow.com)
 ### Blogs
 - [Natasha The Robot](https://www.natashatherobot.com)
 - [Swift by Sundell](https://www.swiftbysundell.com)
