@@ -24,7 +24,7 @@ These are awesome study materials for learning Swift and iOS development.
 - [Swift by Sundell](https://www.swiftbysundell.com)
 - [Cris Lattner's Homepage](http://nondot.org/sabre/)
 ## Communities
-### Conferences
+- [Swift Subreddit](https://www.reddit.com/r/swift/)
 - [try! Swift](https://www.tryswift.co)
 ## Others
 - [Project Euler](https://projecteuler.net)
