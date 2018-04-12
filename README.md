@@ -20,6 +20,7 @@ These are awesome study materials for learning Swift and iOS development.
 - [Stack Overflow](https://stackoverflow.com)
 - [LetsBuildThatApp](https://www.letsbuildthatapp.com)
 - [Medium (Swift Programming)](https://medium.com/swift-programming)
+- [Cult of Mac](https://www.cultofmac.com)
 ### Blogs
 - [Natasha The Robot](https://www.natashatherobot.com)
 - [Swift by Sundell](https://www.swiftbysundell.com)
